@@ -1,0 +1,4 @@
+data/*
+.ipy*
+src/models/*
+src/dev/*
